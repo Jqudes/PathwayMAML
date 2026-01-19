@@ -38,7 +38,7 @@ def parse_args():
     p.add_argument("--K", type=int, default=5)
     p.add_argument("--tasks_per_meta_batch", type=int, default=4)
     p.add_argument("--inner_steps", type=int, default=1)
-    p.add_argument("--inner_lr", type=float, default=4e-3)
+    p.add_argument("--inner_lr", type=float, default=4.5e-3)
     p.add_argument("--meta_lr", type=float, default=8e-6)
     p.add_argument("--num_iterations", type=int, default=5000)
 
