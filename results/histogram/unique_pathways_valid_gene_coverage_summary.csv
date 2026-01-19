@@ -1,0 +1,6 @@
+disease,Pathway_MAML_n_unique_pathways,Pathway_MLP_n_unique_pathways,Pathway_MAML_sum_valid_genes_in_unique_pathways,Pathway_MLP_sum_valid_genes_in_unique_pathways,Pathway_MAML_n_unique_valid_genes_union,Pathway_MLP_n_unique_valid_genes_union
+HBV-HCC,95,53,1287,561,607,295
+IgA_nephropathy,30,26,142,40,120,26
+cirrhosis,57,25,325,90,152,68
+idiopathic_pulmonary_fibrosis,54,36,367,107,209,64
+ipf_ssc,45,28,236,84,117,61

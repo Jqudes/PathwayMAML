@@ -1,0 +1,384 @@
+Pathway,Score
+Signaling by VEGF,-0.001471336444766457
+Negative regulation of the PI3K/AKT network,-0.0007055016400039831
+PI3K/AKT Signaling in Cancer,0.1386679641243665
+G beta:gamma signalling through PI3Kgamma,0.0536968145636865
+G-protein beta:gamma signalling,-0.01231053409032499
+VEGFA-VEGFR2 Pathway,-0.01021004230354797
+VEGFR2 mediated vascular permeability,0.0002855802610413975
+Constitutive Signaling by AKT1 E17K in Cancer,0.054853589003787145
+Respiratory Syncytial Virus Infection Pathway,0.0798062626330547
+RSV-host interactions,0.025892486059042333
+RHO GTPases Activate WASPs and WAVEs,-0.016610669084668146
+RAC2 GTPase cycle,0.04006538647247179
+RAC3 GTPase cycle,-0.03206037332001754
+Parasite infection,0.2100134430663613
+Leishmania phagocytosis,-0.004216335052541861
+FCGR3A-mediated phagocytosis,-0.01066297427541207
+Signaling by NOTCH1,-0.006360682689642952
+NOTCH1 Intracellular Domain Regulates Transcription,-0.005672334399746013
+Signaling by NOTCH1 PEST Domain Mutants in Cancer,0.00884443558331193
+Signaling by NOTCH1 in Cancer,0.00875901825331405
+Constitutive Signaling by NOTCH1 PEST Domain Mutants,-0.01230884925334078
+Signaling by NOTCH1 HD+PEST Domain Mutants in Cancer,-0.010744881718621842
+Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants,-0.011175643510303805
+Regulation of PTEN gene transcription,0.051437242910675876
+Budding and maturation of HIV virion,0.1227641267304396
+Uptake and actions of bacterial toxins,0.011277698126463155
+Bacterial Infection Pathways,-0.05672089918141357
+NRAGE signals death through JNK,-0.04253904689141575
+p75 NTR receptor-mediated signalling,-0.040207512527350366
+"Cell death signalling via NRAGE, NRIF and NADE",0.044187332992885
+Deregulated CDK5 triggers multiple neurodegenerative pathways in Alzheimer's disease models,-0.0016075423292233305
+Neurodegenerative Diseases,0.017865741101659026
+Diseases of programmed cell death,0.09603851173129518
+Defective Intrinsic Pathway for Apoptosis,-0.0326631566714846
+Signaling by SCF-KIT,0.0018524990822945794
+Regulation of KIT signaling,0.029696763123270756
+Degradation of beta-catenin by the destruction complex,-0.030643970808162634
+Beta-catenin phosphorylation cascade,0.010539771952883166
+Disassembly of the destruction complex and recruitment of AXIN to the membrane,5.829343884744052e-06
+G alpha (12/13) signalling events,0.0994247936439098
+Pre-NOTCH Transcription and Translation,-0.014784051487181244
+Pre-NOTCH Expression and Processing,-0.02719761011470291
+Signaling by NOTCH2,-0.0027670478164809205
+NOTCH2 intracellular domain regulates transcription,-0.00262772121846866
+Signaling by NOTCH3,0.024679027687314167
+NOTCH3 Intracellular Domain Regulates Transcription,-0.008579570104568127
+Signaling by NOTCH4,-0.0013346927406469268
+NOTCH4 Intracellular Domain Regulates Transcription,-0.03238160711178987
+Signaling by MET,0.04203303163217824
+RAS processing,0.051483536409061496
+Potential therapeutics for SARS,-0.05053468389537225
+Host Interactions of HIV factors,-0.010721767093016702
+Nef-mediates down modulation of cell surface receptors by recruiting them to clathrin adapters,0.0538368362901925
+The role of Nef in HIV-1 replication and disease pathogenesis,0.0006498791172528118
+NR1H2 and NR1H3-mediated signaling,-0.017778602165301603
+NR1H3 & NR1H2 regulate gene expression linked to cholesterol transport and efflux,0.020492280930384944
+Diseases of glycosylation,0.034584713211947414
+Diseases associated with O-glycosylation of proteins,0.0076477547995753735
+Defective GALNT3 causes HFTC,-0.018151996122864014
+Defective GALNT12 causes CRCS1,0.015638087239950846
+Diseases of metabolism,0.023735260196293347
+Diseases of DNA repair,0.09348068006133269
+Diseases of DNA Double-Strand Break Repair,-0.004765374066425312
+Defective homologous recombination repair (HRR) due to BRCA2 loss of function,-8.26179685972211e-05
+Defective homologous recombination repair (HRR) due to BRCA1 loss of function,-0.002740671832056121
+Defective homologous recombination repair (HRR) due to PALB2 loss of function,-0.001977171577904286
+Defective HDR through Homologous Recombination Repair (HRR) due to PALB2 loss of BRCA1 binding function,-0.013157332757230682
+Defective HDR through Homologous Recombination Repair (HRR) due to PALB2 loss of BRCA2/RAD51/RAD51C binding function,-0.0007046413664930388
+Impaired BRCA2 binding to RAD51,0.02852180735702089
+Impaired BRCA2 binding to PALB2,0.06158575143249103
+Effects of PIP2 hydrolysis,-0.045753000765974626
+Integrin signaling,0.007808655916177229
+Retrograde neurotrophin signalling,-0.003916468332862195
+Signaling by NTRK1 (TRKA),-0.1229891432031122
+TNFR1-induced proapoptotic signaling,0.001369891757677391
+Regulation of TNFR1 signaling,-0.05613808621214617
+TNFR1-induced NF-kappa-B signaling pathway,0.11999702720114636
+TNF signaling,0.0012529265021207128
+RHOA GTPase cycle,0.0035199313400113407
+SARS-CoV-2 activates/modulates innate and adaptive immune responses,0.03036576091233728
+HCMV Infection,-0.0003531585152520869
+HCMV Early Events,-0.030937013102249278
+Regulation of RAS by GAPs,-0.1512225243196028
+RHOF GTPase cycle,-0.0036664084662605696
+P2Y receptors,-0.007682091702951605
+Nucleotide-like (purinergic) receptors,-0.0005290565737248577
+Signaling by PTK6,-0.0549693882307886
+Signaling by Non-Receptor Tyrosine Kinases,0.00840635626770466
+Signaling by Retinoic Acid,-0.014509908867038079
+RA biosynthesis pathway,-0.005193962578876377
+Signaling by ERBB2,-0.006810454022029031
+Downregulation of ERBB2 signaling,0.01665891996431187
+Activated NOTCH1 Transmits Signal to the Nucleus,0.00713218049326247
+NOTCH2 Activation and Transmission of Signal to the Nucleus,0.20855110870099322
+NOTCH3 Activation and Transmission of Signal to the Nucleus,0.016250469986376033
+Opioid Signalling,-0.019148802388652224
+DARPP-32 events,0.03246527883198039
+Nuclear Events (kinase and transcription factor activation),-0.021255272203829133
+Signaling by NTRK2 (TRKB),-0.006873238197060537
+NGF-stimulated transcription,-0.0073392012524225005
+Class B/2 (Secretin family receptors),0.058891151699436296
+G alpha (s) signalling events,-0.09809869464429054
+RHOB GTPase cycle,0.004186619171043821
+RHOC GTPase cycle,-0.03592955222525659
+Vpu mediated degradation of CD4,0.004557266422164537
+Vif-mediated degradation of APOBEC3G,-0.05031128898794358
+PCP/CE pathway,-0.07546896376555375
+Asymmetric localization of PCP proteins,0.0319133095585841
+Degradation of AXIN,0.0349032882588964
+Degradation of DVL,-0.00985859957217441
+Hedgehog ligand biogenesis,-0.03172952524257816
+Hh mutants are degraded by ERAD,-0.028163406422957414
+Hh mutants abrogate ligand secretion,0.02012059651654262
+Degradation of GLI1 by the proteasome,-0.00246458921130644
+Degradation of GLI2 by the proteasome,-0.006287803826730979
+GLI3 is processed to GLI3R by the proteasome,-0.010298530411782778
+Hedgehog 'off' state,-0.020122251911998106
+ABC transporter disorders,-0.0013360054819309285
+Disorders of transmembrane transporters,6.6359167178804525e-06
+Hedgehog 'on' state,0.0270144822956099
+Defective CFTR causes cystic fibrosis,0.07070877942780177
+MAPK6/MAPK4 signaling,0.013905274214058507
+Regulation of PTEN stability and activity,-0.03041299426524961
+Negative regulation of NOTCH4 signaling,-0.00300108932107227
+Formation of HIV elongation complex in the absence of HIV Tat,-0.029581580417159442
+Formation of the HIV-1 Early Elongation Complex,-0.00642002881181963
+RNA Pol II CTD phosphorylation and interaction with CE during HIV infection,-0.0001723585045042407
+HIV Transcription Initiation,0.002284148854926131
+RNA Polymerase II HIV Promoter Escape,-0.029912204316133492
+HIV Transcription Elongation,-0.07973863879283055
+Transcription of the HIV genome,0.025985482396416584
+Formation of HIV-1 elongation complex containing HIV-1 Tat,-0.0039216788261214565
+Tat-mediated elongation of the HIV-1 transcript,-0.013501041825710495
+RHOBTB3 ATPase cycle,0.018632099987540045
+Signaling by TGF-beta Receptor Complex,0.06008007784201698
+Transcriptional activity of SMAD2/SMAD3:SMAD4 heterotrimer,-0.015614465818452494
+SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription,-0.0069691366853989675
+Pausing and recovery of Tat-mediated HIV elongation,-0.0031051387698323497
+Tat-mediated HIV elongation arrest and recovery,-0.004732537811181971
+HIV elongation arrest and recovery,0.01945499513904617
+Pausing and recovery of HIV elongation,-0.05309033519180482
+Estrogen-dependent gene expression,-0.015594124071494637
+RHOBTB2 GTPase cycle,0.051533350998737716
+RHOBTB1 GTPase cycle,0.023490231707165042
+RHOBTB GTPase Cycle,-0.004680494727112416
+Signaling by EGFR,0.00494908237989897
+EGFR downregulation,-0.0006663937624745777
+Signaling by FGFR,0.07304196764143414
+Negative regulation of FGFR1 signaling,-0.0025818034109638902
+Negative regulation of FGFR2 signaling,0.01283951036672019
+Negative regulation of FGFR3 signaling,-0.0073578584037594
+Negative regulation of FGFR4 signaling,0.03558581651538188
+Signaling by FGFR1,0.04120378861947259
+Signaling by FGFR2,0.005996639632155011
+Signaling by FGFR3,-0.00210821156092192
+Signaling by FGFR4,0.03809933520348936
+Negative regulation of MET activity,-0.007058581281995891
+InlB-mediated entry of Listeria monocytogenes into host cell,0.02536921781615324
+Listeria monocytogenes entry into host cells,0.00023897771411033507
+RHOU GTPase cycle,0.007675879370246229
+MAP2K and MAPK activation,0.020488639648005312
+Signaling by moderate kinase activity BRAF mutants,0.0390471700285226
+Signaling by high-kinase activity BRAF mutants,0.01355904870881713
+Signaling by RAS mutants,-0.00014222802283785104
+Signaling by BRAF and RAF1 fusions,-0.03962141211478478
+Paradoxical activation of RAF signaling by kinase inactive BRAF,0.0009120208627248444
+Oncogenic MAPK signaling,-0.013935427111896506
+Signaling downstream of RAS mutants,0.010707160063502096
+Signaling by RAF1 mutants,0.05607718267755284
+AKT phosphorylates targets in the cytosol,-0.02544661637872635
+Aberrant regulation of mitotic G1/S transition in cancer due to RB1 defects,-0.0007499995423554216
+"Defective binding of RB1 mutants to E2F1,(E2F2, E2F3)",0.03058845501715591
+Diseases of mitotic cell cycle,-0.005814959643382636
+FLT3 signaling in disease,-0.001989183976561891
+Aberrant regulation of mitotic cell cycle due to RB1 defects,0.006470928510686703
+Signaling by ALK in cancer,-0.025122579051194947
+Signaling by FLT3 ITD and TKD mutants,0.003956364687819579
+Signaling by ALK fusions and activated point mutants,-0.004769708500344752
+RHO GTPases activate CIT,0.04473912680383811
+Extra-nuclear estrogen signaling,-0.011537702974921477
+Estrogen-dependent nuclear events downstream of ESR-membrane signaling,0.0023018929140491014
+Signaling by Activin,0.006569767841732888
+Downregulation of TGF-beta receptor signaling,-0.012671664115623557
+TGF-beta receptor signaling activates SMADs,0.05808513562340189
+G alpha (z) signalling events,-0.011059648638368719
+Activation of RAC1,-0.0012181259973805504
+RHOQ GTPase cycle,-0.027042157263698765
+RHOH GTPase cycle,-0.016610980090166722
+RHOG GTPase cycle,0.006856502863880004
+RHOJ GTPase cycle,0.20876997562345623
+RHOV GTPase cycle,-0.016370868490641056
+Signaling by Insulin receptor,0.025416697376247483
+Insulin receptor recycling,0.07610147271156628
+MET activates PTK2 signaling,0.0012855875417630276
+MET promotes cell motility,-0.059228289959216265
+MTOR signalling,0.007173930540347077
+mTORC1-mediated signalling,-0.00028571011490302216
+Energy dependent regulation of mTOR by LKB1-AMPK,0.0031941287167819646
+Diseases of Immune System,0.02699657679496047
+Diseases associated with the TLR signaling cascade,-0.0037363440699273703
+RHO GTPases activate IQGAPs,-0.02702292537215553
+RHO GTPases Activate Formins,0.0532324239288932
+RHO GTPases activate PKNs,-0.039955245130540086
+RHO GTPases Activate ROCKs,-0.0003524153589409736
+RHO GTPases activate PAKs,-0.0071277070226788315
+Aberrant regulation of mitotic exit in cancer due to RB1 defects,0.03948195085129043
+Pre-NOTCH Processing in Golgi,0.013226782694351423
+Signaling by ERBB4,-0.011315953322707847
+Nuclear signaling by ERBB4,-0.0017160936871928334
+Signaling by Hippo,0.019114664768199622
+RHOD GTPase cycle,0.015280833370947908
+SARS-CoV-1-host interactions,-0.016448699027623276
+SARS-CoV-1 activates/modulates innate immune responses,-0.010199006558748386
+RND3 GTPase cycle,0.03913352958007808
+Nuclear events stimulated by ALK signaling in cancer,-0.013712090424165504
+HCMV Late Events,-0.014855603325200457
+Formation of the beta-catenin:TCF transactivating complex,0.06801905241617337
+Peptide ligand-binding receptors,-0.015656724623225923
+Chemokine receptors bind chemokines,0.0018683301371507982
+Translation of Structural Proteins,-4.9476969956620026e-05
+Maturation of spike protein,0.012143742058295857
+Late SARS-CoV-2 Infection Events,-0.01523867422881428
+Purinergic signaling in leishmaniasis infection,0.00045424363417455993
+Cell recruitment (pro-inflammatory response),0.05749819686291693
+CaMK IV-mediated phosphorylation of CREB,0.004409614468077969
+Calmodulin induced events,-0.010395591392238267
+Ca-dependent events,0.021745634414482334
+CaM pathway,-0.027417044304948505
+G-protein mediated events,0.005828495164553966
+PLC beta mediated events,-0.020135926813257227
+DAG and IP3 signaling,-0.0012922934675517125
+G-protein activation,-0.004748189887085771
+Ca2+ pathway,-0.10044519716661822
+G beta:gamma signalling through PLC beta,-0.013932039409764304
+Glucagon-type ligand receptors,0.19700639929394992
+G beta:gamma signalling through BTK,-0.05003047203278386
+G beta:gamma signalling through CDC42,-0.023330493165221174
+GPER1 signaling,-0.006702492591896748
+ADORA2B mediated anti-inflammatory cytokines production,-0.03006034906318079
+Anti-inflammatory response favouring Leishmania parasite infection,-0.023315520656015727
+Leishmania parasite growth and survival,-0.026987302449542734
+PKA-mediated phosphorylation of CREB,-0.039400609811117676
+PKA activation,0.022892252908123936
+Adenylate cyclase activating pathway,0.004764812566741535
+Adenylate cyclase inhibitory pathway,-0.0015576665012043225
+FCGR3A-mediated IL10 synthesis,-0.030504425928148938
+Signaling by ERBB2 in Cancer,0.002803598076636131
+Constitutive Signaling by Aberrant PI3K in Cancer,0.019981825586841938
+"PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling",-0.08795880039610345
+Signaling by ERBB2 KD Mutants,-0.0026476662024505224
+Signaling by ERBB2 TMD/JMD mutants,-0.0064752272035584375
+RND2 GTPase cycle,0.006220651040648787
+Signaling by TGFBR3,0.030469367637030502
+Rev-mediated nuclear export of HIV RNA,-0.007786501106314501
+Transport of Ribonucleoproteins into the Host Nucleus,-0.003673084361588567
+Export of Viral Ribonucleoproteins from Nucleus,-0.018869889036314
+NS1 Mediated Effects on Host Pathways,-0.003406515314333919
+Viral Messenger RNA Synthesis,0.005445682963584619
+NEP/NS2 Interacts with the Cellular Export Machinery,-0.021274366773433834
+Interactions of Vpr with host cellular proteins,0.11005787685651376
+Interactions of Rev with host cellular proteins,0.002882635996391259
+Nuclear import of Rev protein,0.0017189243646510532
+Vpr-mediated nuclear import of PICs,0.00044428233195452994
+SLC transporter disorders,-0.06017864886463474
+Defective TPR may confer susceptibility towards thyroid papillary carcinoma (TPC),-0.012499037767814945
+VEGFR2 mediated cell proliferation,-0.0028849053237828526
+Eicosanoid ligand-binding receptors,-0.020796529440351465
+RHO GTPases Activate NADPH Oxidases,-0.00178999777676145
+Downstream signaling of activated FGFR1,-0.026689300240862083
+FRS-mediated FGFR1 signaling,-0.009401233569149995
+Downstream signaling of activated FGFR2,0.0018432758829182649
+FRS-mediated FGFR2 signaling,-0.0016251602128715822
+FRS-mediated FGFR3 signaling,-0.006021144251324643
+Downstream signaling of activated FGFR3,0.00035309609056027603
+FRS-mediated FGFR4 signaling,-0.041022134267741574
+Downstream signaling of activated FGFR4,-0.010984801612269751
+RND1 GTPase cycle,-0.08556760168585993
+Signaling by FGFR in disease,-0.0003102883268666847
+Prolonged ERK activation events,0.00403017228404955
+Frs2-mediated activation,-0.0006259077458339944
+Signalling to ERKs,-0.061368198891702176
+Signaling by ALK,-0.01400058735669686
+Signaling by FGFR2 in disease,0.0001347707064124766
+Signaling by FGFR1 in disease,-0.033180841227428495
+Signaling by FGFR3 in disease,0.004765538971029307
+SARS-CoV-1 targets host intracellular signalling and regulatory pathways,-0.0025723958471295396
+Activation of SMO,-0.001673448258875889
+Constitutive Signaling by Ligand-Responsive EGFR Cancer Variants,0.025543145017241146
+Signaling by EGFR in Cancer,-0.0035284610997012625
+Constitutive Signaling by EGFRvIII,-0.0035715161657775846
+Signaling by EGFRvIII in Cancer,0.026537646260700806
+Signaling by Ligand-Responsive EGFR Variants in Cancer,0.017267081939976375
+Signaling by ERBB2 ECD mutants,0.005457619513605423
+Infection with Mycobacterium tuberculosis,-0.0014754694783942156
+Response of Mtb to phagocytosis,-0.004583709490091547
+Signaling by BMP,-0.006459460349923584
+Early Phase of HIV Life Cycle,-0.002548635885421874
+SARS-CoV-2 modulates host translation machinery,-0.011279045191700088
+RAF-independent MAPK1/3 activation,-0.0119220824202495
+Negative regulation of MAPK pathway,0.015630387469140444
+Viral mRNA Translation,-0.01574005372261013
+Amine ligand-binding receptors,-0.021741075308333524
+Neurotoxicity of clostridium toxins,0.031389634982151485
+SARS-CoV-2 modulates autophagy,-0.002164122085447613
+PI3K Cascade,-0.0019898268891273426
+IRS-mediated signalling,-0.04229713331271656
+Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R),0.04723416855819085
+IGF1R signaling cascade,-0.03943561799068907
+IRS-related events triggered by IGF1R,-0.013761778417012769
+Insulin receptor signalling cascade,-0.01616635052435037
+WNT5A-dependent internalization of FZD4,0.03200281997082465
+"WNT5A-dependent internalization of FZD2, FZD5 and ROR2",-0.0537680735980872
+Induction of Cell-Cell Fusion,-0.005929435033614584
+Signaling by PDGF,0.017023043152727756
+Translation of Replicase and Assembly of the Replication Transcription Complex,0.0377136584287671
+Early SARS-CoV-2 Infection Events,0.015149003249950155
+Assembly Of The HIV Virion,-0.04620567625622842
+Evasion by RSV of host interferon responses,0.008943496131615835
+Downstream signal transduction,0.004151398333971537
+p130Cas linkage to MAPK signaling for integrins,-0.01590505279979924
+Signaling by Erythropoietin,0.04150301082377787
+SARS-CoV-1 modulates host translation machinery,0.010837407039646125
+Downregulation of SMAD2/3:SMAD4 transcriptional activity,0.003214503219060857
+Maturation of nucleoprotein,0.019992532075599007
+Signalling to RAS,0.021467736783291676
+FGFR2 ligand binding and activation,-0.007949328561076469
+Signaling by WNT in cancer,-0.023007978720675767
+Signaling by AXIN mutants,0.07478398182926073
+Signaling by CTNNB1 phospho-site mutants,-0.008042563065274228
+Signaling by APC mutants,0.0010775022075960605
+Signaling by AMER1 mutants,0.008735064610004279
+Signaling by GSK3beta mutants,-0.010784789149750009
+CTNNB1 S33 mutants aren't phosphorylated,-0.019382824467942334
+CTNNB1 S37 mutants aren't phosphorylated,0.11832315291045246
+CTNNB1 S45 mutants aren't phosphorylated,-0.0003279544099163234
+CTNNB1 T41 mutants aren't phosphorylated,0.031737017516099975
+APC truncation mutants have impaired AXIN binding,-0.010512957673059369
+AXIN missense mutants destabilize the destruction complex,-0.029979217646326613
+Truncations of AMER1 destabilize the destruction complex,-0.0022700125877132553
+"Respiratory syncytial virus (RSV) genome replication, transcription and translation",-8.16972916732035e-06
+Maturation of hRSV A proteins,-1.830779398933363e-06
+RHO GTPases activate KTN1,-0.007323263124472193
+Deactivation of the beta-catenin transactivating complex,0.0016413543410062352
+Repression of WNT target genes,0.022234829866955654
+FGFR4 ligand binding and activation,-0.0013623263330478845
+Phospholipase C-mediated cascade; FGFR4,0.019256774392401477
+SHC-mediated cascade:FGFR4,0.03200465600361245
+PI-3K cascade:FGFR4,0.03548987775032334
+STAT3 nuclear events downstream of ALK signaling,0.008884833375514751
+Defective pyroptosis,0.001289718303911742
+ERK/MAPK targets,-0.026310625271900742
+ERKs are inactivated,0.008662635972124695
+TGFBR3 expression,-0.02242837141568398
+Erythropoietin activates Phosphoinositide-3-kinase (PI3K),0.013155742774193901
+Class C/3 (Metabotropic glutamate/pheromone receptors),0.08970172316287103
+FGFR1 mutant receptor activation,-0.005837065679907869
+FGFR2 mutant receptor activation,0.01700901465206047
+Activated point mutants of FGFR2,0.02169167029417217
+Phospholipase C-mediated cascade; FGFR2,-0.009663415850714521
+PI-3K cascade:FGFR1,-0.005144843755390352
+PI-3K cascade:FGFR2,-0.029039904402347872
+SHC-mediated cascade:FGFR2,0.0046081934665702885
+Signaling by FGFR2 IIIa TM,0.00011012814443629444
+TGF-beta receptor signaling in EMT (epithelial to mesenchymal transition),-0.005945684864991591
+Abortive elongation of HIV-1 transcript in the absence of Tat,0.0034387325183319268
+FGFR2 alternative splicing,-0.0057434674863802325
+Regulation of PTEN mRNA translation,0.029026335056035104
+Competing endogenous RNAs (ceRNAs) regulate PTEN translation,0.029007435540711973
+NRIF signals cell death from the nucleus,-0.0018092929141174596
+Signaling by KIT in disease,-0.0023349356627280315
+"Signaling by phosphorylated juxtamembrane, extracellular and kinase domain KIT mutants",-0.01944010823904131
+Loss of function of MECP2 in Rett syndrome,0.0008209009638608178
+Pervasive developmental disorders,-0.014292078872105542
+Disorders of Developmental Biology,0.037926258645962774
+Disorders of Nervous System Development,0.017877704194311207
+Defects in vitamin and cofactor metabolism,-0.009669327108260727
+Regulation of FZD by ubiquitination,-0.009498345249916208
+Serotonin receptors,-0.0033971301860831254
+p75NTR signals via NF-kB,0.04318223024011193
+Signaling by NTRK3 (TRKC),-0.002240468831621931
+RAF activation,-0.012959674756841778
+p75NTR regulates axonogenesis,-0.012149356749501924
+WNT ligand biogenesis and trafficking,-0.01823922858851347
