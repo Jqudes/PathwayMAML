@@ -24,7 +24,7 @@ conda create -n PathwayMAML python=3.9
 conda activate PathwayMAML
 
 pip install -r requirements.txt
-
+```
 ---
 ## Datasets
 
@@ -36,7 +36,7 @@ pip install -r requirements.txt
 PathwayMAML/
 └── data/
     └── <downloaded_tcga_files_here>
-
+```
 ---
 ## Tutorial
 
