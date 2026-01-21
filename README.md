@@ -34,8 +34,9 @@ pip install -r requirements.txt
 
 ```bash
 PathwayMAML/
-└── data/
-    └── <downloaded_tcga_files_here>
+└── TCGA/
+    └── data/
+        └── <downloaded_tcga_files_here>
 ```
 ---
 ## Tutorial
