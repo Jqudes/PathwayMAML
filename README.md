@@ -30,12 +30,12 @@ pip install -r requirements.txt
 
 1. Download the datasets from:  
    https://drive.google.com/drive/folders/1nXHURlv2M6AoGz43JBTj7l3qofa1DaSh?usp=sharing
-2. Place the downloaded files under `data/`:
+2. Place the downloaded files under `data/TCGA/`:
 
 ```bash
 PathwayMAML/
-└── TCGA/
-    └── data/
+└── data/
+    └── TCGA/
         └── <downloaded_tcga_files_here>
 ```
 ---
