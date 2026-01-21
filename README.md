@@ -23,20 +23,21 @@ This design enables pathway-level interpretability by attributing predictions to
 conda create -n PathwayMAML python=3.9
 conda activate PathwayMAML
 
-pip install -r requirements.txt
+conda install pytorch torchvision torchaudio pytorch-cuda=12.1 -c pytorch -c nvidia
+python -m pip install -r requirements.txt
 ```
 ---
 ## Datasets
 
 1. Download the datasets from:  
    https://drive.google.com/drive/folders/1nXHURlv2M6AoGz43JBTj7l3qofa1DaSh?usp=sharing
-2. Place the downloaded files under `data/TCGA/`:
+2. Place the downloaded folder under `data/TCGA/`:
 
 ```bash
 PathwayMAML/
 └── data/
     └── TCGA/
-        └── <downloaded_tcga_files_here>
+        └── 5_TCGA_NCBI/
 ```
 ---
 ## Tutorial
