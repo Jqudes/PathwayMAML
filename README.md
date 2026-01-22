@@ -20,11 +20,20 @@ This design enables pathway-level interpretability by attributing predictions to
 
 ## Environment Setup (Using anaconda)
 ```bash
+## Environment Setup (Using Anaconda)
+
 conda create -n PathwayMAML python=3.9
 conda activate PathwayMAML
 
+# Option A: Install PyTorch via conda
 conda install pytorch torchvision torchaudio pytorch-cuda=12.1 -c pytorch -c nvidia
+
+# Option B: If conda solving is too slow or fails, install PyTorch via pip instead.
+# (If you use Option B, DO NOT run Option A.)
+# python -m pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+
 python -m pip install -r requirements.txt
+
 ```
 ---
 ## Datasets
